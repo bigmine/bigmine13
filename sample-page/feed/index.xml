@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Sample Page</title>
+	<atom:link href="https://bigmine.github.io/bigmine13/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bigmine.github.io/bigmine13</link>
+	<description>2nd International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications</description>
+	<lastBuildDate>Sun, 20 Apr 2014 03:29:37 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=3.9.32</generator>
+</channel>
+</rss>

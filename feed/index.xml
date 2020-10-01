@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Big Data Mining</title>
+	<atom:link href="https://bigmine.github.io/bigmine13/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bigmine.github.io/bigmine13</link>
+	<description>2nd International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications</description>
+	<lastBuildDate>Wed, 03 Sep 2014 05:41:45 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=3.9.32</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>https://bigmine.github.io/bigmine13/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+		<comments>https://bigmine.github.io/bigmine13/hello-world/#comments</comments>
+		<pubDate>Sun, 20 Apr 2014 03:29:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://bigmine.github.io/bigmine13/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://bigmine.github.io/bigmine13/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
